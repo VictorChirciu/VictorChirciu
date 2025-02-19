@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi👋 My name is Chirciu Victor 😉
+### 🌟 Student at UTM | Front-end Eveloper 
+#### | **Every day is a new opportunity to become a better version of yourself.**
 <!--
 **VictorChirciu/VictorChirciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

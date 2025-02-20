@@ -2,17 +2,18 @@
 ### 🌟 Student at UTM | Front-end Eveloper 
 #### | **Every day is a new opportunity to become a better version of yourself.**
 
-<!--
-**VictorChirciu/VictorChirciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🛠 Skills**
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js," /> 
+    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ///////////////// For future separate--> 
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🎨 Hobbies & Interests**  
+
+**🎮 Gaming** – I love playing strategy and adventure games  
+**🎵 Music** – Listening to and exploring different genres  
+**📖 Study** – Constantly learning new technologies and improving my coding skills
+  
+---

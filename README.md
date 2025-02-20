@@ -1,5 +1,5 @@
 # Hi👋 My name is Chirciu Victor 😉
-### 🌟 Student at UTM | Front-end Eveloper 
+### 🌟 Student at UTM | Front-end Developer 
 #### | **Every day is a new opportunity to become a better version of yourself.**
 
 ## **🛠 Skills**

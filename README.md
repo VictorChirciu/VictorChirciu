@@ -19,9 +19,16 @@
   
 <!-- Socials Section -->
 ## **🌎 My Online Presence**
-![Static Badge](https://img.shields.io/badge/Facebook-%231877F2%09?style=for-the-badge&link=https%3A%2F%2Fwww.facebook.com%2Fvictor.chirciu.3)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&link=https%3A%2F%2Fx.com%2FChirciuVictor)
-&nbsp;
-![Static Badge](https://img.shields.io/badge/instagram-%23e1306c?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Fvictorchirciu%2F)
-
+<div>
+  <a href="https://www.facebook.com/victor.chirciu.3" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2%09?style=for-the-badge&" alt="Facebook Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/ChirciuVictor" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge " alt="Twitter Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/victorchirciu/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23e1306c?style=for-the-badge& " alt="Instagram Badge"/>
+  </a>
+</div>
